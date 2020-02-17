@@ -1,5 +1,5 @@
 # Boredom
-Boredom is not another JavaScript library. It's a state of mind. Try it. It's simple. 
+Boredom is not another JavaScript library. It's a state of mind. Try it, it's simple: https://vasilionjea.github.io/boredom/
 
 ## API
 ### Boredom.observe()
