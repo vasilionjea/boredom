@@ -26,3 +26,5 @@ Help another human being (_or animal_). It isn't always easy to know who/what ne
 
 ## Contributing
 Feel free to contribute. Just make sure that you're bored before doing so. 
+
+<img width="430" src="jonas-vincent-xulIYVIbYIc-unsplash.jpg">
